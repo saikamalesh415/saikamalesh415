@@ -80,7 +80,7 @@ Strengthened Java, collections, and modular programming skills
 Created a To-Do List app and Rock-Paper-Scissors game
 Focused on modular, clean, user-friendly code in Command line Interface
 
-#### Repositorys : 
+#### 🔗 Repositorys : 
 [ToDoListapp](https://github.com/saikamalesh415/codsoft_1)<br>
 [Rock-Paper-Scissorsgame](https://github.com/saikamalesh415/codsoft_4)
 
