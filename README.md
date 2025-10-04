@@ -103,7 +103,7 @@ My goal is to develop scalable software systems and grow as a professional engin
 
 ## ⚡ Interests
 
-- 💻 Problem Solving (500+ LeetCode problems)
+- 💻 Solving Problem
 - 🌿 Exploring AI & Machine Learning
 - 🏏 Playing Cricket & Basketball
 
